@@ -61,6 +61,7 @@ document.onkeyup = function (event) {
         }
 
     }
+   
 
     // setting text and variable value inside of p tags ...
     document.querySelector('#user1').innerHTML = "User Guess: " + userGuess;
