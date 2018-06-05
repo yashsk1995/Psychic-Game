@@ -6,3 +6,4 @@
 
 -if user choice is duplicate it will shows alert that its dupliccate!!
 
+-made a button to close window
